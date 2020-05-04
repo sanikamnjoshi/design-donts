@@ -1,2 +1,2 @@
-# design-donts
-The don'ts of design, trained on input from the Crappy Design subreddit.
+# The Don'ts of Design
+An archive of bad design put together using some CV, some NLP, a lot of (wo)man hours and r/CrappyDesign
